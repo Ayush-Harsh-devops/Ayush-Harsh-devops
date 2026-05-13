@@ -42,6 +42,7 @@
 ---
 
 # 📌 Featured Projects
+🔗 [View All Projects → github.com/Ayush-Harsh-devops/devops-project](https://github.com/Ayush-Harsh-devops/devops-project)
 
 ## 🚀 CI/CD GitOps Pipeline
 ### Jenkins → Docker → Trivy → AWS ECR → ArgoCD → Kubernetes
