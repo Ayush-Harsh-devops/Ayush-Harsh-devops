@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ayush Harsh</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS | Azure | Terraform | Kubernetes | Jenkins</h3>
+<h3 align="center">DevOps & Cloud Engineer | AWS | Azure | Terraform | Kubernetes | Jenkins | MLOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;AWS+%7C+Azure+Cloud;Terraform+%7C+Kubernetes;CI%2FCD+Automation;Docker+%7C+Jenkins+%7C+ArgoCD" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;AWS+%7C+Azure+Cloud;Terraform+%7C+Kubernetes;CI%2FCD+Automation;Docker+%7C+Jenkins+%7C+ArgoCD;MLOps+%7C+MLflow+%7C+FastAPI" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🔭 Working on **DevOps & Cloud Projects**
+- 🔭 Working on **DevOps, Cloud & MLOps Projects**
 - 🌱 Learning **Kubernetes, GitOps & Platform Engineering**
+- 🤖 Building **ML Pipelines on Kubernetes with MLflow**
 - ☁️ AWS + Azure Certified
 - ⚡ Passionate about Automation & CI/CD
 - 📫 Email: **harsh4ayush85@gmail.com**
@@ -29,6 +30,13 @@
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions" />
 </p>
 
+## 🤖 MLOps & Data
+<p>
+<img src="https://skillicons.dev/icons?i=python,fastapi" />
+</p>
+
+> MLflow · scikit-learn · Prometheus Model Monitoring · EKS Deployment
+
 ## 💻 Operating Systems & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,github,vscode" />
@@ -42,9 +50,12 @@
 ---
 
 # 📌 Featured Projects
+
 🔗 [View All Projects → github.com/Ayush-Harsh-devops/devops-project](https://github.com/Ayush-Harsh-devops/devops-project)
 
-## 🚀 CI/CD GitOps Pipeline
+---
+
+## 🚀 01 — CI/CD GitOps Pipeline
 ### Jenkins → Docker → Trivy → AWS ECR → ArgoCD → Kubernetes
 
 ✔ Automated CI/CD Pipeline  
@@ -55,7 +66,7 @@
 
 ---
 
-## ☁️ Terraform AWS Infrastructure
+## ☁️ 02 — Terraform AWS Infrastructure
 
 ✔ VPC + Public/Private Subnets  
 ✔ EC2 + Security Groups  
@@ -65,7 +76,7 @@
 
 ---
 
-## 🐳 Dockerized Microservices Project
+## 🐳 03 — Dockerized Microservices Project
 
 ✔ Docker Compose  
 ✔ Nginx Reverse Proxy  
@@ -74,13 +85,26 @@
 
 ---
 
-## ☸️ Kubernetes GitOps Project
+## ☸️ 04 — Kubernetes GitOps Project
 
 ✔ Deployments & Services  
 ✔ ConfigMaps & Secrets  
 ✔ HPA Autoscaling  
 ✔ Ingress Controller  
 ✔ GitOps Workflow  
+
+---
+
+## 🤖 05 — MLOps Pipeline — ML Model on Kubernetes
+### Python + MLflow + FastAPI + Docker + AWS EKS
+
+✔ House Price Prediction ML Model  
+✔ MLflow Experiment Tracking & Model Registry  
+✔ FastAPI REST API Endpoint for Model Serving  
+✔ Dockerized & Deployed on AWS EKS  
+✔ HPA Auto Scaling (2–10 Pods)  
+✔ Prometheus Model Monitoring  
+✔ GitHub Actions CI/CD Pipeline  
 
 ---
 
@@ -111,7 +135,7 @@
 # 🔥 DevOps Philosophy
 
 ```bash
-Build → Test → Secure → Deploy → Monitor → Automate
+Build → Test → Secure → Deploy → Monitor → Automate → ML → Repeat
 ```
 
 ---
@@ -122,7 +146,6 @@ Build → Test → Secure → Deploy → Monitor → Automate
 <a href="https://github.com/Ayush-Harsh-devops">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="mailto:harsh4ayush85@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
