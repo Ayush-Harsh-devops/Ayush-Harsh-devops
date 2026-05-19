@@ -140,6 +140,17 @@ Build → Test → Secure → Deploy → Monitor → Automate → ML → Repeat
 
 ---
 
+# 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Harsh-devops&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Harsh-devops&layout=compact)
+
+---
+
+---
+
+
 # 🌐 Connect With Me
 
 <p>
@@ -150,3 +161,6 @@ Build → Test → Secure → Deploy → Monitor → Automate → ML → Repeat
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+
+⭐ “Consistency is more important than perfection.”
