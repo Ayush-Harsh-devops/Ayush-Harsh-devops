@@ -140,13 +140,6 @@ Build → Test → Secure → Deploy → Monitor → Automate → ML → Repeat
 
 ---
 
-# 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayush-Harsh-devops&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Harsh-devops&layout=compact)
-
----
 
 ---
 
