@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
 
-## ⚙️ DevOps & Automation
+## ⚙️ DevOps & Automation 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,ansible,githubactions" />
 </p>
