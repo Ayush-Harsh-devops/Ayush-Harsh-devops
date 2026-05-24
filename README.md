@@ -111,7 +111,9 @@
 # 📜 Certifications
 
 - AWS Certified Solutions Architect Associate (SAA-C03)
+- https://www.credly.com/badges/cd40f64f-115b-408c-8fad-feb52e049c51
 - Microsoft Azure Administrator (AZ-104)
+- https://learn.microsoft.com/en-in/users/ayushharsh-2978/credentials/6b535bcb3b78debd
 - Azure DevOps Engineer Expert (AZ-400)
 
 ---
