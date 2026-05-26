@@ -67,7 +67,7 @@ $ cat current_focus.txt
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 > 🔗 [github.com/Ayush-Harsh-devops/devops-project](https://github.com/Ayush-Harsh-devops/devops-project)
 
