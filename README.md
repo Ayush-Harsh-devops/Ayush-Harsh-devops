@@ -75,7 +75,7 @@ $ cat current_focus.txt
 
 ### 🔄 01 — CI/CD Complete Pipeline
 
-** Tech Stack:** `Jenkins` `GitHub Actions` `ArgoCD` `AWS EKS` `Docker` `Trivy` `SonarQube`
+**Tech Stack:** `Jenkins` `GitHub Actions` `ArgoCD` `AWS EKS` `Docker` `Trivy` `SonarQube`
 
 ## 🏗️ Architecture
 Code Push → GitHub Actions → Trivy Scan → SonarQube Gate
@@ -93,7 +93,7 @@ Code Push → GitHub Actions → Trivy Scan → SonarQube Gate
 
 ### 🌍 02 — IaC Multi-Environment AWS Terraform
 
-** Tech Stack:** `Terraform` `AWS VPC` `EKS` `RDS` `KMS` `Secrets Manager`
+**Tech Stack:** `Terraform` `AWS VPC` `EKS` `RDS` `KMS` `Secrets Manager`
 ## 🏗️ Architecture
 modules/
 ├── vpc  → Public/Private subnets, NAT, Flow Logs
@@ -114,7 +114,7 @@ terraform apply -var-file=environments/dev/terraform.tfvars
 
 ### ☸️ 03 — Kubernetes E-commerce App
 
-** Tech Stack:** `Helm` `ArgoCD` `PostgreSQL` `Redis` `Prometheus` `AWS ALB`
+**Tech Stack:** `Helm` `ArgoCD` `PostgreSQL` `Redis` `Prometheus` `AWS ALB`
 
 ## 🏗️ Architecture
 ALB (HTTPS) → Frontend → Backend(:3000) → PostgreSQL
@@ -138,7 +138,7 @@ helm upgrade --install ecommerce k8s/helm/ \
 
 ### 📊 04 — Monitoring & Observability Stack
 
-** Tech Stack:** `Prometheus` `Grafana` `Alertmanager` `Loki` `cAdvisor` `Node Exporter`
+**Tech Stack:** `Prometheus` `Grafana` `Alertmanager` `Loki` `cAdvisor` `Node Exporter`
 
 ## 🏗️ Architecture
 Node Exporter ─→ Prometheus ─→ Grafana Dashboards
@@ -166,7 +166,7 @@ curl -s http://localhost:9093/api/v2/alerts | \
 
 ### 🤖 05 — MLOps Pipeline on Kubernetes
 
-** Tech Stack:** `Python` `MLflow` `FastAPI` `Docker` `AWS EKS` `Prometheus`
+**Tech Stack:** `Python` `MLflow` `FastAPI` `Docker` `AWS EKS` `Prometheus`
 ## 🏗️ Architecture
 Train → MLflow Track → Register → FastAPI Serve
 → Docker Build  → ECR Push → EKS Deploy
