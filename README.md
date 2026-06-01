@@ -5,7 +5,6 @@
 <br/>
 
 [![AWS](https://img.shields.io/badge/AWS_SAA--C03-Certified-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/cd40f64f-115b-408c-8fad-feb52e049c51)
-[![Azure](https://img.shields.io/badge/Azure_AZ--104-Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-in/users/ayushharsh-2978/credentials/6b535bcb3b78debd)
 [![GitHub](https://img.shields.io/badge/GitHub-Ayush--Harsh--devops-181717?style=for-the-badge&logo=github)](https://github.com/Ayush-Harsh-devops)
 [![Email](https://img.shields.io/badge/Email-harsh4ayush85%40gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:harsh4ayush85@gmail.com)
 
