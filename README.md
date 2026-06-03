@@ -68,8 +68,6 @@ $ cat current_focus.txt
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 🔗 **[devops-realtime-projects](https://github.com/Ayush-Harsh-devops/devops-realtime-projects)**
 > ⭐ Intermediate — CI/CD + IaC + K8s + MLOps + Monitoring
 
