@@ -91,6 +91,12 @@ Code Push → GitHub Actions → Trivy Scan → SonarQube Gate
 | Uptime | Zero-downtime rolling updates |
 | Alerts | Slack notifications on every build |
 
+## 🔐 Secrets Required
+
+AWS_ACCESS_KEY_ID      → AWS credentials
+AWS_SECRET_ACCESS_KEY  → AWS credentials
+SONAR_TOKEN            → SonarCloud token
+
 ---
 
 ### 🌍 02 — IaC Multi-Environment AWS Terraform
