@@ -68,11 +68,13 @@ $ cat current_focus.txt
 
 ## 📌 Featured Projects
 
-| | Repository | Level |
-|---|---|---| CI/CD + Terraform + Kubernetes | Intermediate |
-| → → | [devops-realtime-projects](https://github.com/Ayush-Harsh-devops/devops-realtime-projects) — CI/CD + IaC + K8s + MLOps + Monitoring | ⭐ Intermediate |
+## 📌 Featured Projects
 
-| 🔧 | [devops-project](https://github.com/Ayush-Harsh-devops/devops-project) — CI/CD + IaC + K8s + MLOps + Monitoring | ⭐ Advanced |
+🔗 **[devops-realtime-projects](https://github.com/Ayush-Harsh-devops/devops-realtime-projects)**
+> ⭐ Intermediate — CI/CD + IaC + K8s + MLOps + Monitoring
+
+🔗 **[devops-project](https://github.com/Ayush-Harsh-devops/devops-project)**
+>  ⭐ Advanced — CI/CD + IaC + K8s + MLOps + Monitoring
 ---
 
 ### 🔄 01 — CI/CD Complete Pipeline
