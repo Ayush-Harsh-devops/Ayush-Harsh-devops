@@ -13,11 +13,16 @@
 ---
 
 ## 👨‍💻 About Me
+![About Me](https://raw.githubusercontent.com/Ayush-Harsh-devops/Ayush-Harsh-devops/main/terminal_card.png)
+
+## About Me
 
 ```bash
-![About Me]
+$ whoami
+...
+```
+```bash
 
-(https://raw.githubusercontent.com/Ayush-Harsh-devops/Ayush-Harsh-devops/main/terminal_card.png)
 
 $ whoami
 Ayush Harsh — DevOps & Cloud Engineer
