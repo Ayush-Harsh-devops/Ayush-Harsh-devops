@@ -18,10 +18,6 @@
 ## About Me
 
 ```bash
-$ whoami
-...
-```
-```bash
 
 
 $ whoami
