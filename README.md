@@ -15,6 +15,8 @@
 ## 👨‍💻 About Me
 
 ```bash
+![About Me](terminal_card.png)
+
 $ whoami
 Ayush Harsh — DevOps & Cloud Engineer
 
